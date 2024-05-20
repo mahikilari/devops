@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodejs
-        image: mahikilari/nodejs:latest
+        image: mahikilari/nodejs:0.1
         ports:
           - containerPort: 3000
 ---
